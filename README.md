@@ -1,2 +1,3 @@
-# 30js
-# 30js
+# **30js**
+##JavaScript 30 Day Challenge
+
